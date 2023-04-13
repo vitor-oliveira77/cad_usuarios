@@ -11,7 +11,7 @@ Aplicação Web para o cadastro de dados de usuários no banco de dados do Djang
 Cadastro de Usuários
 </h1>
 
-<p align="center"> Portfólio desenvolvido para as aulas de desenvolvimento web do Centro Universitário ENIAC. A proposta deste site é servir de base para a história do local,apresentar os serviços prestados aos animais e informar sobre localização e horários. Projeto desenvolvido em HTML5 e CSS3, Onde utilizei Bootstrap e JQuery pela primeira vez. </p>
+<p align="center"> Projeto em desenvolvimento </p>
 <p> 
 <br>
 <strong> Estou a procura de um site para dar o deploy do banco de dados, enquanto isso veja a demonstração no youtube: https://www.youtube.com/watch?v=HF8W08Dp0Fo <strong>
